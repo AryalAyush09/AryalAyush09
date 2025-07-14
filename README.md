@@ -46,12 +46,10 @@ A skill-matching platform backend built with Spring Boot, featuring JWT-based au
 Backend for an e-commerce platform with CRUD operations, validations, and PostgreSQL integration.
 
 ## How to Reach Me  
-- Email: aryalayush34@gmail.com  
-- LinkedIn: [linkedin.com/in/ayusharyal](https://linkedin.com/in/ayusharyal)  
-- GitHub: [github.com/AryalAyush09](https://github.com/AryalAyush09)  
+- Email: aryalayush34@gmail.com    
 
 ## Fun Fact  
 ⚡ I love solving complex backend problems and continuously improving my coding skills!
 
----
+
 *Thank you for visiting my profile! Feel free to connect and collaborate.*  
