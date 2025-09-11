@@ -14,8 +14,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-DB2777?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-005571?style=for-the-badge&logo=postgis&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC2C3D?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## About Me  
