@@ -2,7 +2,6 @@
 Backend Developer | Java + Spring Boot | Spring AI | RAG Systems | Real-Time Systems
 
 
-## Tech Stack
 
 ## Tech Stack
 
