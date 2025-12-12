@@ -68,8 +68,9 @@ I love building high-impact backend systems, solving complex challenges, and con
 ## Featured Projects
 ### [SkillShare Backend](https://github.com/AryalAyush09/Skill-Share_Project)  
 A skill-matching platform backend built with Spring Boot, featuring JWT-based authentication, OTP verification, and custom matching algorithms.
+ 
+### 🏆[Sunaulo Nepal](https://github.com/AryalAyush09/Sunaulo-Nepal)
 
-### 🏆 SunauloNepal – Hackathon Project (2025)
 **2nd Runner-Up – ARBIT National Hackathon**
 
 Real-time user ↔ authority chat using WebSocket
@@ -82,7 +83,8 @@ Multi-channel notifications (WebSocket, Push, SMS)
 
 Clean backend with DTO layers, JPA, and modular structure
 
-### 🟡 IntraWise Secure Assistant (Ongoing)
+### 🟡 [IntraWise Secure Assistant](https://github.com/AryalAyush09/intrawise-secure-assistant)  
+
 AI-powered internal enterprise assistant for HR, IT, policy, and document queries.
 
 RAG system with Spring AI + pgvector
