@@ -26,7 +26,7 @@ Backend Developer | Java + Spring Boot | Spring AI | RAG Systems | Real-Time Sys
 
 
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 I’m a backend developer specializing in Java + Spring Boot, with strong expertise in:
 
