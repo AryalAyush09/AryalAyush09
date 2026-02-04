@@ -1,114 +1,102 @@
-# Hi, I’m Ayush Aryal 👋
-Backend Developer | Java + Spring Boot | Spring AI | RAG Systems | Real-Time Systems
+# Hi, I’m Ayush Aryal 👋  
+**Full-Stack Developer | Java & Spring Ecosystem | Spring AI & RAG Systems**
 
+I’m a backend-focused full-stack developer who loves building **scalable, secure, and intelligent systems**.  
+My core strength lies in **Java + Spring Boot**, **distributed systems**, and **AI-powered backend architectures**, with solid experience integrating modern frontend applications using **React and Next.js**.
 
+---
 
-## Tech Stack
+## 🧠 Core Focus Areas
 
+- Enterprise-grade backend systems with **Java & Spring Boot**
+- **Spring AI–powered RAG systems** and vector search pipelines
+- Secure authentication & authorization (JWT, RBAC, OTP)
+- Real-time systems using **WebSocket & STOMP**
+- Clean Architecture, DTO-driven design & scalable APIs
+- Backend-first full-stack development with modern frontend frameworks
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend & AI
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-2C8EBB?style=for-the-badge&logo=spring&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_System-5A3E85?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-5A3E85?style=for-the-badge)
+
+### 🔹 Databases & Search
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-3C3C3C?style=for-the-badge)
 ![PostGIS](https://img.shields.io/badge/PostGIS-6F1CB0?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-DB2777?style=for-the-badge&logo=cloudinary&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss)
 
+### 🔹 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-DB2777?style=for-the-badge&logo=cloudinary)
 
-**👨‍💻 About Me**
+---
 
-I’m a backend developer specializing in Java + Spring Boot, with strong expertise in:
+## 💼 Skills Summary
 
-Scalable REST API development
+### Backend
+- Java, Spring Boot, Spring Cloud, Spring AI
+- RESTful API design & Clean Architecture
+- Microservices & distributed systems
+- Hibernate / JPA
+- WebSocket & real-time communication
 
-Secure authentication systems (JWT, RBAC, OTP, Refresh Tokens)
+### AI & Data
+- Retrieval-Augmented Generation (RAG)
+- Vector databases (pgvector)
+- Document ingestion & semantic search
+- Secure AI-powered backend services
 
-Real-time communication using WebSocket & STOMP
+### Security
+- JWT Authentication & Refresh Tokens
+- Role-Based Access Control (RBAC)
+- OTP & password encryption (BCrypt)
 
-Vector search & RAG-powered backend systems with Spring AI + pgvector
+### Frontend
+- React & Next.js (App Router)
+- TypeScript
+- API-driven UI development
+- Backend-integrated full-stack workflows
 
-Clean Architecture, DTO abstraction, and layered backend design
+---
 
-Spring Cloud for distributed and scalable microservices
+## 🧩 Concepts I Work With
 
-I love building high-impact backend systems, solving complex challenges, and contributing to meaningful projects.
+- Scalable REST API design  
+- DTO & layered architecture  
+- Secure backend systems  
+- AI-assisted enterprise applications  
+- Real-time data flow  
+- API documentation & testing  
 
-## Skills  
-- **Languages:** Java  
-- **Frameworks:** Spring Boot, Spring Cloud, Spring AI, Hibernate/JPA 
-- **Databases:** PostgreSQL, MYSQL, PostGIS, pgvector
-- **Architecture:**: REST APIs, Clean Architecture, DTO, Service Layer
-- **Security:**: JWT, RBAC, BCrypt, OTP Authentication
-- **Tools:** Git, GitHub, Maven, Swagger, Postman, Cloudinary  
+---
 
+## 📫 How to Reach Me
 
-## Concepts & Tools
+- 📧 Email: **aryalayush34@gmail.com**
+- 🌐 GitHub: **@AryalAyush09**
 
-- REST API Design  
-- JWT Authentication & Refresh Tokens  
-- Role-Based Access Control (RBAC)  
-- DTO Pattern & Clean Architecture  
-- Unit Testing (JUnit, Mockito)  
-- API Documentation (Swagger)  
-- Version Control (Git & GitHub)  
-- Cloudinary for File Uploads  
-- Postman for API Testing  
+---
 
-## Featured Projects
-### [SkillShare Backend](https://github.com/AryalAyush09/Skill-Share_Project)  
-A skill-matching platform backend built with Spring Boot, featuring JWT-based authentication, OTP verification, and custom matching algorithms.
- 
-### 🏆[Sunaulo Nepal](https://github.com/AryalAyush09/Sunaulo-Nepal)
+## ⚡ Fun Fact
+I enjoy designing **backend systems that scale**, and I’m deeply interested in the future of **AI-powered enterprise software**.
 
-**2nd Runner-Up – ARBIT National Hackathon**
+---
 
-Real-time user ↔ authority chat using WebSocket
-
-Polygon-based routing with PostGIS
-
-Automated workflows via n8n + webhook callbacks
-
-Multi-channel notifications (WebSocket, Push, SMS)
-
-Clean backend with DTO layers, JPA, and modular structure
-
-### 🟡 [IntraWise Secure Assistant](https://github.com/AryalAyush09/intrawise-secure-assistant)  
-
-AI-powered internal enterprise assistant for HR, IT, policy, and document queries.
-
-RAG system with Spring AI + pgvector
-
-Secure vector-based document retrieval (PDF, DOCX, TXT)
-
-JWT + OTP + RBAC for enterprise-level security
-
-Document reference transparency, logging & audit tracking
-
-### 🧑‍🎓 Leadership & Community
-Hackathon Director – Nepathon Vol.1 (2025)
-Organized a national-level 48-hour hackathon
-
-Led end-to-end event planning & execution
-
-Managed sponsors, mentors, judges, and participant workflows
-
-Designed GitHub project structure for submissions & reviews
-
-## How to Reach Me  
-- Email: aryalayush34@gmail.com    
-
-## Fun Fact  
-⚡ I love solving complex backend problems and continuously improving my coding skills!
-
-
-*Thank you for visiting my profile! Feel free to connect and collaborate.*  
+⭐ *Thanks for visiting my profile. Feel free to connect, collaborate, or explore my repositories.*
